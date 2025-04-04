@@ -1,6 +1,6 @@
 public class Bank {
 	String name;
-
+//aaaaaaaaaaaaaa
 }
 // ここまで了解しました。
 //山野が加えました。
@@ -9,3 +9,5 @@ public class Bank {
 // お腹がすきました
 
 //ファイル別々でコミットpushの練習
+
+// これでpushしてみます
